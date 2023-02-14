@@ -1,0 +1,38 @@
+tr.linha2{
+    background-color: rgb(194, 194, 194);
+}
+tr.linha4{
+    background-color: rgb(194, 194, 194);
+}
+tr.linha6{
+    background-color: rgb(194, 194, 194);
+}
+table, th , td {
+    border: 1px solid rgb(205, 205, 205);
+    border-collapse: collapse;
+}
+.coluna1{
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-right: 120px;
+    padding-bottom: 5px;
+}
+.coluna2{
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-right: 60px;
+    padding-bottom: 5px;
+}
+.coluna3{
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+}
+.linha1{
+    text-align: left;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
